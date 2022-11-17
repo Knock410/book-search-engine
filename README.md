@@ -1,4 +1,4 @@
-# React-Portfolio 
+# Book-Search-Engine
 
 
 ## TABLE OF CONTENTS
@@ -15,7 +15,7 @@
 ## DESCRIPTION
 
         
-- A portfolio that presents my coding journey and created using react 
+- Search and save your favorite books to read for later 
 
 
 ## PACKAGES
@@ -49,13 +49,11 @@ React
       
 - To run the project  clone the code from the following github link:
 
-   -https://github.com/Knock410/React-Portfolio
+   -https://github.com/Knock410/book-search-engine
 
 - Open the terminal and use "npm i" to install tha packages.
 
-  USE npx create-react-app "app name" TO CREATE YOUR APP DIRECTORY and folder name.
-
-- Using the "npm start" wil prompt and opening of your sever on your local host in you google chrome window.
+- Using the "npm run develop" wil prompt and opening of your sever on your local host in you google chrome window.
 
 ## QUESTIONS
 
@@ -75,6 +73,6 @@ or
 
         
 ## ScreenShot 
-Deployed link  https://knock410.github.io/React-Portfolio/
 
-![image](https://user-images.githubusercontent.com/107076722/202076217-46444d80-0938-4837-92a8-7b1f8385378f.png)
+![image](https://user-images.githubusercontent.com/107076722/202336090-ced9cad3-e0b5-4421-a927-c8e22fdf2994.png)
+
