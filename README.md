@@ -69,8 +69,8 @@ or
 
 - Email: [enoch10evelyn@gmail.com](mailto:enoch10evelyn@gmail.com})
 
-
-
+Deployed link:
+https://warm-shore-23092.herokuapp.com/
         
 ## ScreenShot 
 
